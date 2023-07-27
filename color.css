@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+.grid {
+    display: flex;
+    border: solid 1px black ;
+    padding:10px;
+    font-size: 1.5px ;
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+
+}
+.color1 {
+    background-color: rgb(221, 160, 159);
+}
+.color2 {
+    background-color: rgb(211,191,223);
+}
+.color3 {
+    background-color: rgb(240, 229, 173);
+}
+.color4 {
+    background-color: rgb(198, 222, 165);
+}
+.color5 {
+    background-color: rgb(165, 190, 234);
+}
